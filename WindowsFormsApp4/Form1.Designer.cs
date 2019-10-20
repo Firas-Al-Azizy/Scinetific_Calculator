@@ -67,7 +67,7 @@
             this.sign.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.sign.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.sign.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.sign.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sign.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sign.ForeColor = System.Drawing.Color.Black;
             this.sign.Location = new System.Drawing.Point(7, 333);
             this.sign.Name = "sign";
@@ -87,7 +87,7 @@
             this.seven.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.seven.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.seven.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.seven.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.seven.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.seven.ForeColor = System.Drawing.Color.Black;
             this.seven.Location = new System.Drawing.Point(7, 148);
             this.seven.Name = "seven";
@@ -107,7 +107,7 @@
             this.four.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.four.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.four.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.four.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.four.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.four.ForeColor = System.Drawing.Color.Black;
             this.four.Location = new System.Drawing.Point(7, 208);
             this.four.Name = "four";
@@ -127,7 +127,7 @@
             this.button6.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.button6.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button6.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button6.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button6.ForeColor = System.Drawing.Color.Black;
             this.button6.Location = new System.Drawing.Point(7, 271);
             this.button6.Name = "button6";
@@ -147,7 +147,7 @@
             this.two.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.two.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.two.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.two.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.two.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.two.ForeColor = System.Drawing.Color.Black;
             this.two.Location = new System.Drawing.Point(100, 271);
             this.two.Name = "two";
@@ -167,7 +167,7 @@
             this.five.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.five.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.five.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.five.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.five.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.five.ForeColor = System.Drawing.Color.Black;
             this.five.Location = new System.Drawing.Point(100, 208);
             this.five.Name = "five";
@@ -187,7 +187,7 @@
             this.eight.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.eight.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.eight.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.eight.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.eight.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.eight.ForeColor = System.Drawing.Color.Black;
             this.eight.Location = new System.Drawing.Point(100, 148);
             this.eight.Name = "eight";
@@ -207,7 +207,7 @@
             this.zero.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.zero.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.zero.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.zero.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.zero.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.zero.ForeColor = System.Drawing.Color.Black;
             this.zero.Location = new System.Drawing.Point(100, 333);
             this.zero.Name = "zero";
@@ -227,7 +227,7 @@
             this.three.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.three.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.three.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.three.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.three.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.three.ForeColor = System.Drawing.Color.Black;
             this.three.Location = new System.Drawing.Point(193, 271);
             this.three.Name = "three";
@@ -247,7 +247,7 @@
             this.six.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.six.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.six.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.six.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.six.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.six.ForeColor = System.Drawing.Color.Black;
             this.six.Location = new System.Drawing.Point(193, 208);
             this.six.Name = "six";
@@ -267,7 +267,7 @@
             this.nine.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.nine.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.nine.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.nine.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nine.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.nine.ForeColor = System.Drawing.Color.Black;
             this.nine.Location = new System.Drawing.Point(193, 148);
             this.nine.Name = "nine";
@@ -287,7 +287,7 @@
             this.dot.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.dot.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.dot.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.dot.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dot.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.dot.ForeColor = System.Drawing.Color.Black;
             this.dot.Location = new System.Drawing.Point(193, 333);
             this.dot.Name = "dot";
@@ -307,7 +307,7 @@
             this.add.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.add.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.add.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.add.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.add.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.add.ForeColor = System.Drawing.Color.Black;
             this.add.Location = new System.Drawing.Point(284, 271);
             this.add.Name = "add";
@@ -327,7 +327,7 @@
             this.sub.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.sub.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.sub.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.sub.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sub.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sub.ForeColor = System.Drawing.Color.Black;
             this.sub.Location = new System.Drawing.Point(284, 208);
             this.sub.Name = "sub";
@@ -347,7 +347,7 @@
             this.multi.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.multi.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.multi.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.multi.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.multi.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.multi.ForeColor = System.Drawing.Color.Black;
             this.multi.Location = new System.Drawing.Point(284, 148);
             this.multi.Name = "multi";
@@ -367,7 +367,7 @@
             this.equal.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.equal.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.equal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.equal.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.equal.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.equal.ForeColor = System.Drawing.Color.Black;
             this.equal.Location = new System.Drawing.Point(284, 333);
             this.equal.Name = "equal";
@@ -387,7 +387,7 @@
             this.div.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.div.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.div.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.div.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.div.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.div.ForeColor = System.Drawing.Color.Black;
             this.div.Location = new System.Drawing.Point(284, 85);
             this.div.Name = "div";
@@ -407,7 +407,7 @@
             this.mod.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.mod.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.mod.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.mod.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.mod.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.mod.ForeColor = System.Drawing.Color.Black;
             this.mod.Location = new System.Drawing.Point(193, 85);
             this.mod.Name = "mod";
@@ -427,7 +427,7 @@
             this.sqrt.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.sqrt.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.sqrt.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.sqrt.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sqrt.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sqrt.ForeColor = System.Drawing.Color.Black;
             this.sqrt.Location = new System.Drawing.Point(369, 148);
             this.sqrt.Name = "sqrt";
@@ -448,7 +448,7 @@
             this.clear.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.clear.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.clear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.clear.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.clear.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.clear.ForeColor = System.Drawing.Color.Black;
             this.clear.Location = new System.Drawing.Point(7, 85);
             this.clear.Name = "clear";
@@ -468,7 +468,7 @@
             this.pow2.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.pow2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.pow2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.pow2.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.pow2.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.pow2.ForeColor = System.Drawing.Color.Black;
             this.pow2.Location = new System.Drawing.Point(369, 85);
             this.pow2.Name = "pow2";
@@ -488,7 +488,7 @@
             this.cos.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.cos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.cos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.cos.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cos.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cos.ForeColor = System.Drawing.Color.Black;
             this.cos.Location = new System.Drawing.Point(369, 271);
             this.cos.Name = "cos";
@@ -508,7 +508,7 @@
             this.tan.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.tan.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.tan.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.tan.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tan.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tan.ForeColor = System.Drawing.Color.Black;
             this.tan.Location = new System.Drawing.Point(369, 208);
             this.tan.Name = "tan";
@@ -528,7 +528,7 @@
             this.erase.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.erase.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.erase.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.erase.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.erase.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.erase.ForeColor = System.Drawing.Color.Black;
             this.erase.Location = new System.Drawing.Point(100, 85);
             this.erase.Name = "erase";
@@ -548,7 +548,7 @@
             this.sin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Silver;
             this.sin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.sin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.sin.Font = new System.Drawing.Font("Segoe Print", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.sin.Font = new System.Drawing.Font("Segoe Print", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.sin.ForeColor = System.Drawing.Color.Black;
             this.sin.Location = new System.Drawing.Point(369, 333);
             this.sin.Name = "sin";
