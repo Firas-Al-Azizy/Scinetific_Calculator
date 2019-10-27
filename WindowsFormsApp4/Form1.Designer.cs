@@ -492,7 +492,7 @@
             this.cos.ForeColor = System.Drawing.Color.Black;
             this.cos.Location = new System.Drawing.Point(369, 271);
             this.cos.Name = "cos";
-            this.cos.Size = new System.Drawing.Size(99, 64);
+            this.cos.Size = new System.Drawing.Size(98, 64);
             this.cos.TabIndex = 26;
             this.cos.Text = "Cos";
             this.cos.UseVisualStyleBackColor = false;
@@ -512,7 +512,7 @@
             this.tan.ForeColor = System.Drawing.Color.Black;
             this.tan.Location = new System.Drawing.Point(369, 208);
             this.tan.Name = "tan";
-            this.tan.Size = new System.Drawing.Size(99, 64);
+            this.tan.Size = new System.Drawing.Size(98, 64);
             this.tan.TabIndex = 25;
             this.tan.Text = "Tan";
             this.tan.UseVisualStyleBackColor = false;
@@ -552,7 +552,7 @@
             this.sin.ForeColor = System.Drawing.Color.Black;
             this.sin.Location = new System.Drawing.Point(369, 333);
             this.sin.Name = "sin";
-            this.sin.Size = new System.Drawing.Size(99, 64);
+            this.sin.Size = new System.Drawing.Size(98, 64);
             this.sin.TabIndex = 23;
             this.sin.Text = "Sin";
             this.sin.UseVisualStyleBackColor = false;
@@ -579,7 +579,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.ClientSize = new System.Drawing.Size(475, 410);
+            this.ClientSize = new System.Drawing.Size(476, 410);
             this.Controls.Add(this.txtCalc);
             this.Controls.Add(this.pow2);
             this.Controls.Add(this.cos);
